@@ -23,3 +23,12 @@ go.work.sum
 
 # env file
 .env
+portal_DB
+test\portal_DB
+test
+.vs
+.vscode
+.plan
+.idea
+Log.txt
+vendor
